@@ -5,6 +5,8 @@ object testHello {
 
     println("fasdf")
 
+    println("asdfasf")
+
   }
 
 }
