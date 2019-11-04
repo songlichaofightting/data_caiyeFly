@@ -7,6 +7,8 @@ object testHello {
 
     println("asdfasf")
 
+    println("asdf")
+
   }
 
 }
